@@ -1,7 +1,9 @@
 # Videos de Trading y ChatGPT
 
 ## [Cómo ganar dinero con ChatGPT usando métodos de trading](https://www.youtube.com/watch?v=_ueuC4OPHjE)
-![alt text](https://img.youtube.com/vi/_ueuC4OPHjE/0.jpg)
+<a href="https://www.youtube.com/watch?v=_ueuC4OPHjE">
+  <img src="https://img.youtube.com/vi/_ueuC4OPHjE/0.jpg" alt="Cómo ganar dinero con ChatGPT usando métodos de trading" width="400">
+</a>
 
 **Resumen:** Este video explica diversas estrategias de trading que pueden ser implementadas utilizando ChatGPT. Se destacan los métodos automatizados para generar ingresos en el mercado de criptomonedas.
 
