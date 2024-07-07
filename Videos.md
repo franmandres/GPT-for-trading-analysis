@@ -5,8 +5,6 @@
 
 **Resumen:** Este video explica diversas estrategias de trading que pueden ser implementadas utilizando ChatGPT. Se destacan los métodos automatizados para generar ingresos en el mercado de criptomonedas, aprovechando la capacidad de ChatGPT para analizar grandes volúmenes de datos y detectar patrones de mercado. También se discuten las precauciones necesarias para minimizar los riesgos asociados con el trading automatizado.
 
-___
-
 ## [Trading con Inteligencia Artificial: Caso Práctico](https://www.youtube.com/watch?v=4BI2Y7Dg_9A)
 ![Thumbnail](https://img.youtube.com/vi/4BI2Y7Dg_9A/0.jpg)
 
