@@ -1,4 +1,6 @@
-# Videos de Trading y ChatGPT
+# Videos de trading implementando ChatGPT
+
+<div align="justify">
 
 ## [Cómo ganar dinero con ChatGPT usando métodos de trading](https://www.youtube.com/watch?v=_ueuC4OPHjE)
 ![Thumbnail](https://img.youtube.com/vi/_ueuC4OPHjE/0.jpg)
