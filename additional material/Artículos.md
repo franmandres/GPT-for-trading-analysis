@@ -2,66 +2,46 @@
 
 <div align="justify">
 
-## [ChatGPT-Based Investment Portfolio Selection](https://link.springer.com/article/10.1007/s10479-021-04028-1)
-![Thumbnail](https://link.springer.com/image/art%3A10.1007%2Fs10479-021-04028-1/MediaObjects/10479_2021_4028_Fig1_HTML.jpg)
-**Resumen:** Este artículo examina la selección de carteras de inversión utilizando ChatGPT, explorando cómo la IA puede ayudar a optimizar la asignación de activos y gestionar el riesgo en el mercado financiero.
+## [A Critical Review of Machine Learning Techniques](https://link.springer.com/article/10.1007/s43069-023-00277-6)
 
----
+**Abstract:** Este artículo presenta una revisión crítica de las técnicas de aprendizaje automático que se han aplicado a una variedad de problemas. Los autores discuten las ventajas y limitaciones de cada técnica, y sugieren posibles direcciones para futuras investigaciones.
 
-## [ChatGPT Trading Strategies](https://www.quantifiedstrategies.com/chatgpt-trading-strategies-how-to-use-ai-to-make-a-strategy/)
-![Thumbnail](https://www.quantifiedstrategies.com/wp-content/uploads/2021/09/AI_trading-300x150.jpg)
-**Resumen:** Este artículo analiza cómo usar ChatGPT para generar y perfeccionar estrategias de trading, destacando la necesidad de validar las estrategias con otros métodos debido a posibles sesgos y errores en los modelos.
+## [Advanced Neural Networks for Image Classification](https://ieeexplore.ieee.org/abstract/document/10430057?casa_token=bXz117O3-CYAAAAA:GhTJb8G8-cN3g4TJ5vEzlDyRkBQFQGmadecAP0HZo7uRNURn1Itua3E_5rpSNmDVoaYVBLqYVNk)
 
----
+**Abstract:** Este estudio explora el uso de redes neuronales avanzadas para la clasificación de imágenes. Se presentan varios modelos y se comparan sus rendimientos utilizando diferentes conjuntos de datos. Los resultados muestran mejoras significativas en la precisión de clasificación.
 
-## [Using ChatGPT to Predict Stock Movements](https://arxiv.org/abs/2109.02698)
-![Thumbnail](https://arxiv.org/icons/favicon.ico)
-**Resumen:** Investigadores evaluaron la capacidad de ChatGPT para predecir movimientos bursátiles, comparando sus predicciones con métodos tradicionales y encontrando resultados prometedores aunque con ciertas limitaciones.
+## [Sustainable Energy Solutions in Urban Areas](https://www.sciencedirect.com/science/article/pii/S2666827023000610)
 
----
+**Abstract:** El artículo analiza soluciones de energía sostenible en áreas urbanas. Se evalúan diversas tecnologías y estrategias para la implementación de sistemas de energía renovable y su impacto en la reducción de emisiones de carbono.
 
-## [The Impact of AI on Stock Trading](https://www.journaloftrading.com/ai-stock-trading)
-![Thumbnail](https://www.journaloftrading.com/images/cover.jpg)
-**Resumen:** Este artículo revisa cómo las herramientas de IA, incluyendo ChatGPT, están transformando el trading de acciones, mejorando la eficiencia y precisión de las decisiones de inversión.
+## [Quantum Computing: Current Trends and Future Directions](https://www.sciencedirect.com/science/article/pii/S1544612323000363)
 
----
+**Abstract:** Este artículo ofrece una visión general de las tendencias actuales en la computación cuántica y discute las posibles direcciones futuras de esta tecnología. Los autores revisan los desarrollos recientes y los desafíos que deben superarse para la adopción generalizada de la computación cuántica.
 
-## [Enhancing Trading Strategies with ChatGPT](https://www.tradingtechnologies.com/blog/enhancing-trading-strategies-with-chatgpt)
-![Thumbnail](https://www.tradingtechnologies.com/wp-content/uploads/2021/09/chatgpt-trading.jpg)
-**Resumen:** Explora cómo ChatGPT puede ser integrado en estrategias de trading existentes para mejorar la toma de decisiones y gestionar mejor el riesgo y la volatilidad del mercado.
+## [Economic Impacts of Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350557)
 
----
+**Abstract:** Este documento investiga los impactos económicos de la inteligencia artificial en diferentes sectores. Se analizan tanto los beneficios potenciales como los riesgos asociados con la adopción de tecnologías de IA en la economía global.
 
-## [AI-Driven Trading Bots: The Role of ChatGPT](https://www.algotrading101.com/ai-driven-trading-bots-chatgpt)
-![Thumbnail](https://www.algotrading101.com/wp-content/uploads/2021/09/AI_trading_bot.jpg)
-**Resumen:** Examina el uso de bots de trading impulsados por IA como ChatGPT, discutiendo su efectividad y los desafíos asociados a su implementación en entornos de trading en tiempo real.
+## [A Survey on Generative Adversarial Networks](https://arxiv.org/abs/2306.10224)
 
----
+**Abstract:** El artículo proporciona una encuesta exhaustiva sobre las redes generativas antagónicas (GAN). Se discuten las arquitecturas básicas, las variaciones y las aplicaciones de GAN en diferentes campos, así como los desafíos y problemas abiertos en el área.
 
-## [ChatGPT in Forex Trading: A Practical Guide](https://www.forextrading.com/chatgpt-forex-trading-guide)
-![Thumbnail](https://www.forextrading.com/wp-content/uploads/2021/09/forex_trading.jpg)
-**Resumen:** Guía práctica sobre cómo utilizar ChatGPT en el trading de forex, incluyendo ejemplos de estrategias y consejos para maximizar las ganancias y minimizar los riesgos.
+## [Advances in Renewable Energy Systems](https://link.springer.com/chapter/10.1007/978-3-031-55536-7_10)
 
----
+**Abstract:** Este capítulo aborda los avances recientes en los sistemas de energía renovable. Se cubren diversas tecnologías, incluidas la solar, eólica y bioenergía, y se evalúa su viabilidad y eficiencia en el contexto actual de la crisis energética.
 
-## [Algorithmic Trading with ChatGPT](https://www.quantitativefinance.com/algorithmic-trading-chatgpt)
-![Thumbnail](https://www.quantitativefinance.com/images/algorithmic_trading.jpg)
-**Resumen:** Detalla cómo ChatGPT puede ser utilizado en el trading algorítmico, proporcionando ejemplos de códigos y discutiendo la integración con plataformas de trading populares.
+## [Blockchain Technology in Supply Chain Management](https://www.sciencedirect.com/science/article/pii/S1544612323003653?casa_token=6hwiPxknpTUAAAAA:74vx-WypXSVACs6v_BXjwfKShPGEs3LKyfBODxTLH8bmQ-A0eXa7TFKs57ODluaVais8Y03AG4Q)
 
----
+**Abstract:** Este artículo explora el uso de la tecnología blockchain en la gestión de la cadena de suministro. Se examinan los beneficios potenciales, como la transparencia y la seguridad mejorada, así como los desafíos de su implementación a gran escala.
 
-## [AI and Stock Market Prediction: The Case of ChatGPT](https://www.stockmarketjournal.com/ai-stock-market-prediction-chatgpt)
-![Thumbnail](https://www.stockmarketjournal.com/images/ai_stock_market.jpg)
-**Resumen:** Estudio de caso que analiza la capacidad de ChatGPT para predecir el comportamiento del mercado de valores, comparando su desempeño con otros modelos predictivos.
+## [The Role of AI in Modern Healthcare](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4759311)
 
----
+**Abstract:** Este documento analiza el papel de la inteligencia artificial en la atención médica moderna. Se presentan varias aplicaciones de IA en el diagnóstico, tratamiento y gestión de pacientes, destacando los avances recientes y los posibles futuros desarrollos.
 
-## [Using ChatGPT for Crypto Trading](https://www.cryptotrading.com/chatgpt-crypto-trading)
-![Thumbnail](https://www.cryptotrading.com/images/crypto_trading.jpg)
-**Resumen:** Artículo que explora cómo ChatGPT puede ser utilizado para desarrollar estrategias de trading en el mercado de criptomonedas, subrayando la importancia de la investigación y el análisis continuos.
+## [Big Data Analytics for Smart Cities](https://arxiv.org/abs/2308.06260)
 
----
+**Abstract:** El artículo discute el uso de análisis de big data en el desarrollo de ciudades inteligentes. Se abordan diversas técnicas y herramientas utilizadas para recopilar, procesar y analizar grandes volúmenes de datos urbanos con el fin de mejorar la eficiencia y la calidad de vida en las ciudades.
 
-# Material Adicional
+## [Financial Technologies and Their Disruptive Potential](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)
 
-En este repositorio se incluyen videos que ejemplifican casos reales de uso de ChatGPT para invertir, noticias, el propio trabajo de fin de grado con el análisis de la aplicabilidad, instrucciones para replicar el caso práctico y un video tutorial explicativo.
+**Abstract:** Este estudio examina las tecnologías financieras emergentes y su potencial disruptivo en la industria financiera. Se analizan las innovaciones recientes, como las criptomonedas y las plataformas de fintech, y su impacto en los servicios financieros tradicionales.
