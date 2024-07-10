@@ -1,4 +1,4 @@
-# Artículos de Investigación
+# Artículos de investigación destacables
 
 <div align="justify">
 
