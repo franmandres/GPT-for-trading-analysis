@@ -64,7 +64,7 @@
 
 ## [ChatGPT and Cryptocurrency](https://link.springer.com/chapter/10.1007/978-3-031-55536-7_10)
 
-![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/stock-trading-chatgpt7.jpg "Art7")
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/stock-trading-chatgpt9.jpg "Art7")
 
 **Abstract:** El propósito de este capítulo es analizar la relación beneficiosa entre ChatGPT y las criptomonedas. Comienza explicando las bases de ChatGPT, destacando su capacidad para generar texto similar al humano. Luego, se explora cómo el aprendizaje automático y el procesamiento del lenguaje natural ayudan a consolidar información para inversores y fanáticos, estudiar el estado de ánimo del mercado e interpretar noticias. Se muestran ejemplos prácticos de cómo ChatGPT puede seguir tendencias de bitcoin, proporcionar información útil y apoyar la toma de decisiones informadas. Además, se discuten cuestiones éticas, problemas y aplicaciones en la comunicación relacionada con criptomonedas. El objetivo es que los lectores comprendan cómo los modelos de lenguaje avanzados pueden ayudar a navegar y entender el complejo mercado de criptomonedas, con un enfoque específico en los vínculos entre ChatGPT y Bitcoin.
 
@@ -84,7 +84,7 @@
 
 ## [Can ChatGPT Generate Stock Tickers to Buy and Sell for Day Trading?](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4759311)
 
-![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/stock-trading-chatgpt9.jpg "Art9")
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/stock-trading-chatgpt7.jpg "Art9")
 
 **Abstract:** Este artículo examina cómo ChatGPT puede utilizarse para la fijación de precios de activos empíricos. Demuestra que ChatGPT puede generar tickers bursátiles que permiten una estrategia rentable de negociación intradía. Utilizando entradas de múltiples publicaciones de Twitter con noticias macro y específicas de empresas, se le pide a ChatGPT que genere listas de tickers para comprar y vender. Estas listas producen importantes retornos en posiciones largas y cortas durante operaciones intradía. ChatGPT indica que las acciones tecnológicas son clave para las listas de compra, mientras que el análisis sectorial es crucial para las listas de venta. Las listas generadas están compuestas por acciones conectadas económicamente a través de la cadena de suministro, resultando en una menor concentración industrial. El desempeño se debe a la selección de acciones dentro de cada industria y a la estrategia de venta en corto, especialmente en acciones difíciles de arbitrar. Esto sugiere que ChatGPT puede extraer señales de precios incorrectos de datos textuales, incluso cuando la mayoría de las noticias de Twitter no son específicas de empresas, mostrando su capacidad para procesar grandes volúmenes de información no específica y generar señales precisas.
 
