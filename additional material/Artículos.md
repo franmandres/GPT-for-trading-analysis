@@ -10,6 +10,7 @@
 
 **Referencia:** Romanko, O., Narayan, A., & Kwon, R.H. (2023). ChatGPT-Based Investment Portfolio Selection. Oper. Res. Forum, 4(91). https://doi.org/10.1007/s43069-023-00277-6
 
+&nbsp;
 
 ## [Natural Language Coding (NLC) for Autonomous Stock Trading: A New Dimension in No-Code/Low-Code (NCLC) AI](https://ieeexplore.ieee.org/document/10430057)
 
