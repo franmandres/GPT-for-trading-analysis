@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-## [ChatGPT-Based Investment Portfolio Selection](https://link.springer.com/article/10.1007/s43069-023-00277-6)
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/1.jpg "Overview")
 
 ![alt text](https://github.com/matthewberger/tfgan/raw/master/images/teaser_img.jpg "Overview")
 
