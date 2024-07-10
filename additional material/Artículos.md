@@ -20,7 +20,7 @@
 
 **Referencia:** Kumar, Y., Li, W., Huang, K., Thompson, M., & Hannon, B. (2023). Natural Language Coding (NLC) for Autonomous Stock Trading: A New Dimension in No-Code/Low-Code (NCLC) AI. 2023 IEEE 23rd International Conference on Software Quality, Reliability, and Security Companion (QRS-C), Chiang Mai, Thailand, pp. 873-874. https://doi.org/10.1109/QRS-C60940.2023.00047
 
-
+&nbsp;
 
 ## [Transforming sentiment analysis in the financial domain with ChatGPT](https://www.sciencedirect.com/science/article/pii/S2666827023000610)
 
@@ -30,7 +30,7 @@
 
 **Referencia:** Fatouros, G., Soldatos, J., Kouroumali, K., Makridis, G., & Kyriazis, D. (2023). Transforming sentiment analysis in the financial domain with ChatGPT. Machine Learning with Applications, 14(100508). https://doi.org/10.1016/j.mlwa.2023.100508
 
-
+&nbsp;
 
 ## [ChatGPT for (Finance) research: The Bananarama Conjecture](https://www.sciencedirect.com/science/article/pii/S1544612323000363)
 
@@ -40,7 +40,7 @@
 
 **Referencia:** Dowling, M., & Lucey, B. (2023). ChatGPT for (Finance) research: The Bananarama Conjecture. Finance Research Letters, 53(103662). https://doi.org/10.1016/j.frl.2023.103662
 
-
+&nbsp;
 
 ## [The ChatGPT Effect on AI-Themed Cryptocurrencies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350557)
 
@@ -50,7 +50,7 @@
 
 **Referencia:** Ante, L., & Demir, E. (2023). The ChatGPT Effect on AI-Themed Cryptocurrencies. Available at SSRN: https://ssrn.com/abstract=4350557 or http://dx.doi.org/10.2139/ssrn.4350557
 
-
+&nbsp;
 
 ## [Bloated Disclosures: Can ChatGPT Help Investors Process Information?](https://arxiv.org/abs/2306.10224)
 
@@ -60,7 +60,7 @@
 
 **Referencia:** Kim, A., Muhn, M., & Nikolaev, V. (2023). Bloated disclosures: Can ChatGPT help investors process information? In arXiv [econ.GN]. http://arxiv.org/abs/2306.10224
 
-
+&nbsp;
 
 ## [ChatGPT and Cryptocurrency](https://link.springer.com/chapter/10.1007/978-3-031-55536-7_10)
 
@@ -70,7 +70,7 @@
 
 **Referencia:** Arnone, G. (2024). ChatGPT and Cryptocurrency. In: AI and Chatbots in Fintech. Contributions to Finance and Accounting. Springer, Cham. https://doi.org/10.1007/978-3-031-55536-7_10
 
-
+&nbsp;
 
 ## [The influence of ChatGPT on artificial intelligence related crypto assets: Evidence from a synthetic control analysis](https://www.sciencedirect.com/science/article/pii/S1544612323003653?casa_token=6hwiPxknpTUAAAAA:74vx-WypXSVACs6v_BXjwfKShPGEs3LKyfBODxTLH8bmQ-A0eXa7TFKs57ODluaVais8Y03AG4Q)
 
@@ -80,7 +80,7 @@
 
 **Referencia:** Saggu, A., & Ante, L. (2023). The influence of ChatGPT on artificial intelligence related crypto assets: Evidence from a synthetic control analysis. Finance Research Letters, 55(103993). https://doi.org/10.1016/j.frl.2023.103993
 
-
+&nbsp;
 
 ## [Can ChatGPT Generate Stock Tickers to Buy and Sell for Day Trading?](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4759311)
 
@@ -90,7 +90,7 @@
 
 **Referencia:** Cho, S. (2024). Can ChatGPT Generate Stock Tickers to Buy and Sell for Day Trading? Available at SSRN: https://ssrn.com/abstract=4759311 or http://dx.doi.org/10.2139/ssrn.4759311
 
-
+&nbsp;
 
 ## [ChatGPT-based Investment Portfolio Selection](https://arxiv.org/abs/2308.06260)
 
