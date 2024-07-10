@@ -54,7 +54,7 @@
 
 ## [Bloated Disclosures: Can ChatGPT Help Investors Process Information?](https://arxiv.org/abs/2306.10224)
 
-![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/stock-trading-chatgpt6.jpg "Art6")
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/stock-trading-chatgpt10.jpg "Art6")
 
 **Abstract:** Las herramientas de inteligencia artificial generativa, como ChatGPT, pueden cambiar radicalmente la forma en que los inversores procesan la información. En este análisis investigamos la utilidad económica de estas herramientas para resumir divulgaciones corporativas complejas utilizando el mercado de valores como laboratorio. Los resúmenes sin restricciones son notablemente más cortos en comparación con los originales, mientras que su contenido informativo se amplifica. Cuando un documento tiene un sentimiento positivo (negativo), su resumen se vuelve más positivo (negativo). Es importante destacar que los resúmenes son más efectivos para explicar las reacciones del mercado de valores a la información divulgada. Motivados por estos hallazgos, proponemos una medida de "hinchazón" de la información. Demostramos que la divulgación inflada está asociada con consecuencias adversas en el mercado de capitales, como una menor eficiencia de precios y una mayor asimetría de la información. Finalmente, demostramos que el modelo es eficaz para construir resúmenes específicos que identifican el desempeño (no) financiero de las empresas. En conjunto, nuestros resultados indican que la inteligencia artificial generativa agrega un valor considerable para los inversores con restricciones de procesamiento de información.
 
@@ -94,7 +94,7 @@
 
 ## [ChatGPT-based Investment Portfolio Selection](https://arxiv.org/abs/2308.06260)
 
-![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/stock-trading-chatgpt10.jpg "Art10")
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/stock-trading-chatgpt6.jpg "Art10")
 
 **Abstract:** En este artículo, exploramos los posibles usos de los modelos de IA generativos, como ChatGPT, para la selección de carteras de inversión. Confiar en los consejos de inversión de los modelos Generative Pre-Trained Transformer (GPT) es un desafío debido a las "alucinaciones" del modelo, lo que requiere una verificación y validación cuidadosas del resultado. Por lo tanto, adoptamos un enfoque alternativo. Usamos ChatGPT para obtener un universo de acciones del índice de mercado S&P500 que son potencialmente atractivas para invertir. Posteriormente, comparamos varias estrategias de optimización de cartera que utilizaron este universo comercial generado por IA, evaluándolas frente a modelos de optimización de cartera cuantitativos y comparándolas con algunos de los fondos de inversión más populares. Nuestros hallazgos indican que ChatGPT es eficaz en la selección de acciones, pero puede no funcionar tan bien en la asignación de ponderaciones óptimas a las acciones dentro de la cartera. Pero cuando la selección de acciones por ChatGPT se combina con modelos de optimización de cartera establecidos, logramos resultados aún mejores. Al combinar las fortalezas de la selección de acciones generada por IA con técnicas avanzadas de optimización cuantitativa, observamos el potencial de obtener resultados de inversión más sólidos y favorables, lo que sugiere un enfoque híbrido para una toma de decisiones de inversión más efectiva y confiable en el futuro.
 
