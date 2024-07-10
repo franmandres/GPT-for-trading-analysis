@@ -2,9 +2,7 @@
 
 <div align="justify">
 
-![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/1.jpg "Overview")
-
-![alt text](https://github.com/matthewberger/tfgan/raw/master/images/teaser_img.jpg "Overview")
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/stock-trading-chatgpt1.jpg "Overview")
 
 **Abstract:** Este artículo explora cómo los modelos de IA generativa, como ChatGPT, pueden ser utilizados para la selección de carteras de inversión. Aunque confiar en estos modelos para asesoramiento de inversión presenta desafíos debido a sus "alucinaciones", el estudio adopta un enfoque alternativo. Utiliza ChatGPT para identificar acciones atractivas del índice S&P500 y luego compara diversas estrategias de optimización de carteras que usan este conjunto de acciones generadas por la IA. Los resultados muestran que, aunque ChatGPT es efectivo en la selección de acciones, no lo es tanto en la asignación de pesos óptimos dentro de la cartera. Sin embargo, al combinar la selección de acciones de ChatGPT con modelos avanzados de optimización de carteras, se obtienen mejores resultados. Esto sugiere que un enfoque híbrido, que combine las fortalezas de la selección de acciones por IA y las técnicas cuantitativas de optimización, puede mejorar la toma de decisiones de inversión de manera más efectiva y confiable.
 
