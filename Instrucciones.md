@@ -1,51 +1,59 @@
-#Instrucciones para replicar el caso práctico
+# Instrucciones para replicar el caso práctico
 
 A continuación, se presenta una guía detallada y práctica para desarrollar y ejecutar una estrategia de trading utilizando ChatGPT y TradingView. Esta guía está diseñada para ser fácil de seguir, incluso para principiantes en el mundo del trading.
 
 <div align="justify">
    
-#Paso 1: Configurar el indicador en TradingView y copiar el código en el Editor Pine
+# Paso 1: Configurar el indicador en TradingView y copiar el código en el Editor Pine
    
 1. **Abrir TradingView y cargar el gráfico del activo:**
+   
    - Visita [TradingView](https://www.tradingview.com) y crea una cuenta o inicia sesión si ya tienes una.
    - En la barra de búsqueda, escribe el par de activos que te interesa, por ejemplo, "BTC/EUR" (precio de Bitcoin en euros), y selecciona el gráfico correspondiente. Se recomienda elegir el gráfico de un mercado grande como BINANCE para asegurar datos actualizados.
    - Asegúrate de que el gráfico seleccionado muestre "Bitcoin/Euro × 1D × BINANCE" en la esquina superior izquierda.
 
-2. **Añadir el indicador técnico:**
+3. **Añadir el indicador técnico:**
+   
    - Haz clic en el icono de "Indicadores" (representado por un gráfico de líneas con un símbolo de suma) en la barra superior del gráfico.
    - Busca "Supertrend" en la barra de búsqueda de indicadores y selecciónalo para añadirlo al gráfico. Este indicador ayuda a detectar tendencias y volatilidad, estableciendo niveles efectivos de stop-loss.
    - Para obtener más información sobre "Supertrend", coloca el cursor sobre su nombre en el lado izquierdo del gráfico, haz clic en los tres puntos (opción "Más"), y selecciona "Acerca de este script".
 
-3. **Abrir el código fuente del indicador:**
+4. **Abrir el código fuente del indicador:**
+   
    - Haz clic derecho sobre el nombre del indicador en la lista de indicadores a la izquierda del gráfico y selecciona "Código fuente" para abrir el código en el Editor Pine.
    - Alternativamente, puedes hacer clic en el icono de { } junto al nombre del indicador.
    - Copia todo el código que se muestra en el Editor Pine. Si la ventana del editor está minimizada, arrástrala hacia arriba para verla claramente.
 
-#Paso 2: Solicitar a ChatGPT que genere una estrategia de trading
+# Paso 2: Solicitar a ChatGPT que genere una estrategia de trading
 
 1. **Pegar el código del indicador en ChatGPT:**
+   
    - Abre ChatGPT e inicia una nueva conversación. Pega el código del indicador Supertrend en el cuadro de texto de ChatGPT.
 
-2. **Solicitar la estrategia de trading:**
+3. **Solicitar la estrategia de trading:**
+   
    - Formula una solicitud específica, como: "¿Podrías usar el código que te acabo de pasar para generar una estrategia en Pine Script que compre cuando el indicador Supertrend rompa de abajo hacia arriba el precio de BTC/EUR, y venda cuando rompa el mismo precio de arriba hacia abajo?"
    - ChatGPT generará el código Pine Script para la estrategia basada en el indicador Supertrend.
 
-#Paso 3: Introducir el nuevo código en el Editor Pine de TradingView
+# Paso 3: Introducir el nuevo código en el Editor Pine de TradingView
 
 1. **Volver a TradingView y abrir el Editor Pine:**
+   
    - Regresa a TradingView y abre el Editor Pine.
 
-2. **Crear una copia del script original:**
+3. **Crear una copia del script original:**
+   
    - En el Editor Pine, haz clic en "Guardar como" y nombra el script, por ejemplo, "Supertrend BTC/EUR Strategy". Esto permite modificar el script.
 
-3. **Reemplazar el código antiguo:**
+5. **Reemplazar el código antiguo:**
+   
    - Borra el código antiguo y pega el nuevo código generado por ChatGPT.
 
-4. **Guardar y aplicar el script:**
-
+7. **Guardar y aplicar el script:**
+   
    - Haz clic en "Guardar" y luego en "Añadir al gráfico" para aplicar el script al gráfico de Bitcoin/EUR.
 
-## 8.2.4 Paso 4: Realizar la gestión de riesgos
+# Paso 4: Realizar la gestión de riesgos
 
 1. **Ajustar la configuración de la estrategia:**
 
@@ -66,7 +74,7 @@ A continuación, se presenta una guía detallada y práctica para desarrollar y 
 
    - Haz clic en "Recalcular" para actualizar los resultados de la estrategia con las nuevas configuraciones de gestión de riesgos.
 
-## 8.2.5 Paso 5: Establecer alertas
+## Paso 5: Establecer alertas
 
 1. **Configurar alertas en TradingView:**
 
