@@ -19,7 +19,6 @@ A continuación, se presenta una guía detallada y práctica para desarrollar y 
    - Una vez abierto el grafico, tendría que salirnos algo similar a la imagen que se muestra a continuación. Es importante fijarnos en la esquina superior izquierda y asegurarse de que se nos muestra el gráfico Bitcoin/Euro × 1D × BINANCE.
      
    ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture3.png "Capture3")   
-
 3. **Añadir el indicador técnico:**
    
    - En la barra superior del gráfico, haz clic en el icono de "Indicadores" (representado por un gráfico de líneas con un símbolo de suma).
@@ -59,12 +58,21 @@ A continuación, se presenta una guía detallada y práctica para desarrollar y 
 
 1. **Pegar el código del indicador en ChatGPT:**
    
-   - Abre ChatGPT e inicia una nueva conversación. Pega el código del indicador Supertrend en el cuadro de texto de ChatGPT.
+   - Abre ChatGPT e inicia una nueva conversación. Pega el código del indicador Supertrend que copiaste previamente en el cuadro de texto de ChatGPT.
+  
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture12.png "Capture12")
 
 3. **Solicitar la estrategia de trading:**
    
-   - Formula una solicitud específica, como: "¿Podrías usar el código que te acabo de pasar para generar una estrategia en Pine Script que compre cuando el indicador Supertrend rompa de abajo hacia arriba el precio de BTC/EUR, y venda cuando rompa el mismo precio de arriba hacia abajo?"
-   - ChatGPT generará el código Pine Script para la estrategia basada en el indicador Supertrend.
+   - Formula la solicitud para generar una estrategia específica. Por ejemplo:
+*"¿Podrías usar el código que te acabo de pasar para generar una estrategia en Pine Script que compre cuando el indicador Supertrend rompa de abajo hacia arriba el precio de BTC/EUR, y venda cuando rompa el mismo precio de arriba hacia abajo?"*
+
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture13.png "Capture13")
+
+   - ChatGPT procesará la solicitud y generará el código Pine Script correspondiente para la estrategia de compra y venta basada en el indicador Supertrend.
+  
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture14.png "Capture14")
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture15.png "Capture15")
 
 # Paso 3: Introducir el nuevo código en el Editor Pine de TradingView
 
@@ -72,17 +80,33 @@ A continuación, se presenta una guía detallada y práctica para desarrollar y 
    
    - Regresa a TradingView y abre el Editor Pine.
 
-3. **Crear una copia del script original:**
-   
-   - En el Editor Pine, haz clic en "Guardar como" y nombra el script, por ejemplo, "Supertrend BTC/EUR Strategy". Esto permite modificar el script.
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture16.png "Capture16")
 
-5. **Reemplazar el código antiguo:**
+2. **Crear una copia del script original:**
    
-   - Borra el código antiguo y pega el nuevo código generado por ChatGPT.
+   - En el Editor Pine, crea una copia del script original haciendo clic en "Guardar como" y dando un nuevo nombre al script.
+  
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture17.png "Capture17")
 
-7. **Guardar y aplicar el script:**
+   - Lo vamos a llamar, por ejemplo, "Supertrend BTC/EUR Strategy". De esta manera el mensaje de “Este script es de solo lectura” desaparece y podemos modificar el código.
+  
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture18.png "Capture18")
+
+3. **Reemplazar el código antiguo:**
    
-   - Haz clic en "Guardar" y luego en "Añadir al gráfico" para aplicar el script al gráfico de Bitcoin/EUR.
+   - Borra todo el código antiguo en el Editor Pine. Pega el nuevo código generado por ChatGPT.
+
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture19.png "Capture19")
+
+4. **Guardar y aplicar el script:**
+   
+   - Haz clic en "Guardar" para guardar el nuevo script. Luego, haz clic en "Añadir al gráfico" para aplicar el script al gráfico de Bitcoin/EUR.
+  
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture20.png "Capture20")
+
+   - Así es como quedaría el gráfico una vez hayamos añadido nuestro script con la estrategia, donde se nos crean los indicadores de compra y venta con diferentes colores.
+  
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture21.png "Capture21")
 
 # Paso 4: Realizar la gestión de riesgos
 
@@ -90,38 +114,46 @@ A continuación, se presenta una guía detallada y práctica para desarrollar y 
 
    - Haz clic en la rueda de configuración del script en el gráfico para abrir la ventana de propiedades.
 
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture22.png "Capture22")
+
 2. **Configurar parámetros de gestión de riesgos:**
 
-   - **Capital inicial:** Configura el capital inicial (ej. 150.000€).
-   - **Divisa de referencia:** Establece la divisa de referencia (ej. euros).
-   - **Tamaño de la orden:** Define el tamaño de la orden como un porcentaje del patrimonio (ej. 5%).
+   - **Capital inicial:** Configura el capital inicial que deseas utilizar (por ejemplo, 150.000€).
+   - **Divisa de referencia:** Establece la divisa de referencia (por ejemplo, euros).
+   - **Tamaño de la orden:** Define el tamaño de la orden como un porcentaje del patrimonio (por ejemplo, 5%).
    - **Efecto pirámide:** Establece el efecto pirámide en 1.
-   - **Comisión:** Configura la comisión por orden (ej. 1 euro/orden).
-   - **Margen para posiciones largas:** Establece el margen (ej. 1).
-   - **Margen para posiciones cortas:** Establece el margen (ej. 2).
-   - **Recalcular:** Selecciona la opción para recalcular la estrategia una vez ejecutada la orden.
+   - **Comisión:** Configura la comisión por orden (por ejemplo, 1 euro/orden).
+   - **Margen para posiciones largas:** Es el capital que un inversor debe depositar como garantía para abrir y mantener una posición larga en el mercado. Establecemos como margen 1.
+   - **Margen para posiciones cortas:** Es el capital que un inversor debe depositar como garantía para abrir y mantener una posición corta en el mercado. Establecemos como margen 2.
+   - **Recalcular:** Seleccionamos que se recalcule la estrategia una vez ejecutada la orden.
+
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture23.png "Capture23")
 
 3. **Recalcular resultados:**
 
-   - Haz clic en "Recalcular" para actualizar los resultados de la estrategia con las nuevas configuraciones de gestión de riesgos.
-
+   - Haz clic en "Recalcular" para actualizar los resultados de la estrategia considerando las nuevas configuraciones de gestión de riesgos. Revisa los resultados ajustados para ver la rentabilidad real de la estrategia.
+     
 ## Paso 5: Establecer alertas
 
 1. **Configurar alertas en TradingView:**
 
-   - Haz clic en el icono de reloj (Alertas) en la parte superior derecha de TradingView.
+   - Haz clic en el icono de reloj (Alertas) en la parte superior derecha de TradingView para abrir la ventana de alertas.
+  
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture24.png "Capture24")
 
 2. **Establecer la condición de la alerta:**
 
-   - Selecciona el script guardado, "Supertrend BTC/EUR Strategy", y configura la condición para activar la alerta cuando se cumplan los criterios de compra o venta.
+   - Selecciona el script que guardaste, "Supertrend BTC/EUR Strategy". Configura la condición de la alerta para que se active cuando se cumplan los criterios de compra o venta definidos en la estrategia.
 
 3. **Definir el vencimiento de las alertas:**
 
-   - Establece el vencimiento de las alertas al máximo posible para evitar renovarlas frecuentemente.
+   - Establece el vencimiento de las alertas al máximo posible para no tener que renovarlas frecuentemente.
 
 4. **Guardar la configuración de alertas:**
 
-   - Dale un nombre a la alerta, como "Alerta Supertrend", y haz clic en "Guardar".
+   - Dale un nombre a la alerta, como "Alerta Supertrend". Haz clic en "Guardar" para activar la alerta.
+  
+      ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/captures/Capture25.png "Capture25")
 
 5. **Monitorear y ajustar:**
 
