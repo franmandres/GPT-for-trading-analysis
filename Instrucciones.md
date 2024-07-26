@@ -9,23 +9,33 @@ A continuación, se presenta una guía detallada y práctica para desarrollar y 
 1. **Abrir TradingView y cargar el gráfico del activo:**
    
    - Visita [TradingView](https://www.tradingview.com) y crea una cuenta o inicia sesión si ya tienes una.
-   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructions captures/Capture1.png "Capture1")
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture1.png "Capture1")
+   - En la barra de búsqueda en la parte superior de la página, escribe el par de activos que te interesa, por ejemplo, "BTC/EUR" (el cual hace referencia a la variación del precio del Bitcoin en la divisa euro) y selecciona el gráfico correspondiente de la lista desplegable. Como recomendación, en estos casos donde se dispone de muchos spots de donde elegir mostrar gráfico, es conveniente escoger el más grande o conocido pues estará más actualizado, por ello elegimos BINANCE.
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture2.png "Capture2")
+   - Una vez abierto el grafico, tendría que salirnos algo similar a la imagen que se muestra a continuación. Es importante fijarnos en la esquina superior izquierda y asegurarse de que se nos muestra el gráfico Bitcoin/Euro × 1D × BINANCE.
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture3.png "Capture3")   
 
-   - En la barra de búsqueda, escribe el par de activos que te interesa, por ejemplo, "BTC/EUR" (precio de Bitcoin en euros), y selecciona el gráfico correspondiente. Se recomienda elegir el gráfico de un mercado grande como BINANCE para asegurar datos actualizados.
-   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructions captures/Capture1.png "Capture1")
-   - Asegúrate de que el gráfico seleccionado muestre "Bitcoin/Euro × 1D × BINANCE" en la esquina superior izquierda.
-
-3. **Añadir el indicador técnico:**
+2. **Añadir el indicador técnico:**
    
-   - Haz clic en el icono de "Indicadores" (representado por un gráfico de líneas con un símbolo de suma) en la barra superior del gráfico.
-   - Busca "Supertrend" en la barra de búsqueda de indicadores y selecciónalo para añadirlo al gráfico. Este indicador ayuda a detectar tendencias y volatilidad, estableciendo niveles efectivos de stop-loss.
-   - Para obtener más información sobre "Supertrend", coloca el cursor sobre su nombre en el lado izquierdo del gráfico, haz clic en los tres puntos (opción "Más"), y selecciona "Acerca de este script".
+   - En la barra superior del gráfico, haz clic en el icono de "Indicadores" (representado por un gráfico de líneas con un símbolo de suma).
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture4.png "Capture4")  
+   - En la barra de búsqueda de indicadores que aparece, escribe "Supertrend" y selecciónalo para añadirlo a tu gráfico. El Supertrend es un indicador de tendencia basado en el Average True Range (ATR). Este indicador de línea única combina la detección de tendencias y la volatilidad, permitiendo anticipar cambios en la dirección de la tendencia y establecer niveles de stop-loss efectivos.
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture5.png "Capture5") 
+   - Así quedaría el grafico una vez se selecciona el indicador.
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture6.png "Capture6")
+   - Podemos obtener más información sobre el indicador "Supertrend" colocando el cursor sobre su nombre en el lado izquierdo del gráfico, haciendo clic en los tres puntos (opción "Más"), y seleccionando "Acerca de este script".
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture7.png "Capture7")
+   - Esto abrirá una ventana en el lado derecho que proporciona detalles sobre el indicador, incluyendo su descripción, historia y método de cálculo.
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture8.png "Capture8")
 
-4. **Abrir el código fuente del indicador:**
+3. **Abrir el código fuente del indicador:**
    
-   - Haz clic derecho sobre el nombre del indicador en la lista de indicadores a la izquierda del gráfico y selecciona "Código fuente" para abrir el código en el Editor Pine.
-   - Alternativamente, puedes hacer clic en el icono de { } junto al nombre del indicador.
-   - Copia todo el código que se muestra en el Editor Pine. Si la ventana del editor está minimizada, arrástrala hacia arriba para verla claramente.
+   - Con el indicador Supertrend visible en el gráfico, haz clic derecho sobre el nombre del indicador en la lista de indicadores situada en la parte izquierda del gráfico. Selecciona "Código fuente" para abrir el código del indicador en el Editor Pine.
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture9.png "Capture9")
+   - Otra forma de abrirlo es seleccionando directamente sobre el icono de { } situado al lado del nombre del indicador.
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture10.png "Capture10")
+   - El Editor Pine se abrirá mostrando el código en lenguaje Pine Script. Si no ves la ventana del editor de inmediato, es posible que esté minimizada en la parte inferior de la pantalla según la configuración de tu vista. Simplemente arrastra la ventana hacia arriba para verla con claridad. Luego, copia todo el código que se muestra en el editor.
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture11.png "Capture11")
 
 # Paso 2: Solicitar a ChatGPT que genere una estrategia de trading
 
