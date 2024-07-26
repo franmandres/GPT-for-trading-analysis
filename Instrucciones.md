@@ -9,8 +9,7 @@ A continuación, se presenta una guía detallada y práctica para desarrollar y 
 1. **Abrir TradingView y cargar el gráfico del activo:**
    
    - Visita [TradingView](https://www.tradingview.com) y crea una cuenta o inicia sesión si ya tienes una.
-   
-   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture1.png "Capture1")
+   ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructions_captures/Capture1.png "Capture1")
    
    - En la barra de búsqueda en la parte superior de la página, escribe el par de activos que te interesa, por ejemplo, "BTC/EUR" (el cual hace referencia a la variación del precio del Bitcoin en la divisa euro) y selecciona el gráfico correspondiente de la lista desplegable. Como recomendación, en estos casos donde se dispone de muchos spots de donde elegir mostrar gráfico, es conveniente escoger el más grande o conocido pues estará más actualizado, por ello elegimos BINANCE.
    ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/images/instructionscaptures/Capture2.png "Capture2")
