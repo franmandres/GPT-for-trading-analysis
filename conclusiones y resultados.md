@@ -1,5 +1,6 @@
 # Interpretación del caso práctico y resultados
 
+
 <div align="justify">
 
 ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/conclusiones/conclusion1.png "Conc1")
@@ -22,3 +23,5 @@ Las áreas de color no solo ayudan a identificar la tendencia actual, sino que t
 Las señales de trading marcadas en el gráfico con etiquetas como "Buy" (compra) y "Close entry order Buy" (cerrar orden de compra) indican los puntos específicos donde la estrategia recomendó abrir o cerrar una posición. Cada señal está acompañada de una cifra que representa la ganancia o pérdida de la operación en términos de porcentaje o valor absoluto. Estas señales se generan automáticamente en función de la configuración del indicador y los criterios de entrada/salida establecidos por el trader.
 
 El precio actual del Bitcoin, indicado en la parte superior del gráfico, es de 61,396.71 EUR, con una disminución del 1.11% en el último día. Este valor se sitúa en una zona de posible resistencia o soporte, determinada por los niveles actuales del Supertrend: 55,194.62 EUR, 57,859.94 EUR, y 56,000.00 EUR. Estos niveles sirven como puntos críticos donde los traders pueden esperar un cambio de tendencia o una continuación de la misma.
+
+____________
