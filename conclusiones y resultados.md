@@ -1,7 +1,8 @@
+#Interpretación del caso práctico y resultados
 
 ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/conclusiones/conclusion1.png "Conc1")
 
-# Contexto del Mercado
+## Contexto del Mercado
 
 El gráfico de precios muestra la evolución diaria del valor de Bitcoin frente al Euro. Este tipo de gráfico es una herramienta fundamental en el análisis técnico, ya que permite a los traders observar patrones, tendencias y posibles puntos de entrada y salida del mercado. En el contexto de criptomonedas, la volatilidad es una característica clave, lo que hace que la elección de un indicador como el Supertrend sea particularmente relevante para identificar movimientos significativos.
 
