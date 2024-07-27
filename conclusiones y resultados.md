@@ -1,4 +1,6 @@
-#Interpretación del caso práctico y resultados
+# Interpretación del caso práctico y resultados
+
+<div align="justify">
 
 ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/conclusiones/conclusion1.png "Conc1")
 
