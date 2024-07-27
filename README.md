@@ -1,5 +1,7 @@
 # Análisis de la aplicabilidad de Sistemas Inteligentes (ChatGPT) al Trading
 
+<div align="justify">
+  
 ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/articulos/trading-chat-gpt-overview.jpg "Overview")
 
 ## Introducción
