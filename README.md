@@ -29,4 +29,3 @@ El propósito principal de este trabajo es demostrar cómo los modelos de inteli
   - **artículos.md**: Lista de artículos y referencias bibliográficas que han sido fundamentales para la elaboración del proyecto. Este archivo proporciona una visión de las fuentes de información y la literatura revisada durante la investigación.
   - **videos.md**: Enlaces a videos relevantes que complementan y expanden el contenido del TFG, ofreciendo demostraciones prácticas, entrevistas con expertos y otros recursos educativos.
 
-Este repositorio está diseñado para proporcionar una visión integral del uso de inteligencia artificial en el trading, ofreciendo tanto el código necesario para implementar la estrategia como los resultados y análisis obtenidos. Es una herramienta valiosa tanto para académicos como para profesionales interesados en el desarrollo de estrategias de trading basadas en inteligencia artificial.
