@@ -1,5 +1,4 @@
 # Interpretación del caso práctico y resultados
-____
 
 <div align="justify">
 
@@ -43,4 +42,27 @@ La máxima serie de pérdidas es de 4,618.24 EUR, lo que representa un 2.77% del
 ## Promedio por Operación y Duración Media
 
 El beneficio promedio por operación es de 1,143.40 EUR, con un rendimiento medio del 14.71%. Esta métrica proporciona una idea del retorno esperado por cada operación, lo cual es útil para ajustar el tamaño de las posiciones y gestionar el riesgo. Además, el promedio de 51 barras (días) por operación indica que la estrategia tiende a mantener las posiciones durante varias semanas, lo que sugiere un enfoque de trading de mediano plazo. Este periodo relativamente largo permite capturar tendencias más amplias, aunque también implica estar expuesto a la volatilidad del mercado durante más tiempo.
+
+____
+
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/conclusiones/conclusion3.png "Conc3")
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/conclusiones/conclusion4.png "Conc4")
+
+## Análisis de Resultados de la Estrategia de Trading
+
+Analizamos la captura, que proporciona un análisis más detallado de nuestra estrategia de trading y los resultados obtenidos hasta la fecha. Esta imagen nos permite evaluar la efectividad de nuestras decisiones de inversión, identificar áreas de mejora y ajustar la estrategia para maximizar los beneficios futuros.
+
+  - **Beneficio neto:** El beneficio neto total es de 20,581.11 EUR, todo proviene de posiciones largas (compra) ya que no hay posiciones cortas (venta).
+  - **Beneficio bruto y Pérdidas brutas:** El beneficio bruto es de 26,720.93 EUR y las pérdidas brutas son de 6,139.82 EUR, lo que da un beneficio neto de 20,581.11 EUR.
+  - **Max Run-up:** La máxima ganancia potencial es de 23,773.38 EUR.
+  - **Máxima serie de pérdidas:** La mayor racha de pérdidas consecutivas es de 4,618.24 EUR.
+  - **Comprar y mantener el rendimiento:** El rendimiento de mantener la posición en BTC es de 931,239.90 EUR, significativamente más alto que el beneficio neto de la estrategia.
+  - **Relación Sharpe y Ratio de Sortino:** La relación Sharpe es baja (0.069), al igual que el ratio de Sortino (0.288), indicando una alta volatilidad o bajo rendimiento ajustado por riesgo.
+  - **Número de contratos y comisiones:** Se ejecutaron 18 operaciones cerradas, con una comisión total de 37.00 EUR.
+  - **Número de operaciones ganadoras y perdedoras:** De las 18 operaciones cerradas, 8 fueron ganadoras y 10 perdedoras.
+  - **Porcentaje de rentabilidad:** La tasa de éxito es de 44.44%.
+  - **Promedio por operación:** Las operaciones ganadoras tuvieron un promedio de 3,340.12 EUR, mientras que las perdedoras tuvieron un promedio de 613.98 EUR.
+  - **Coeficiente del valor medio de ganancias/pérdidas:** Es de 5.44, lo que indica que las ganancias promedio son mayores que las pérdidas promedio.
+  - **Operaciones y barras:** El promedio de barras en operaciones ganadoras es de 79, y en perdedoras es de 29, lo que sugiere que las operaciones ganadoras duraron más tiempo.
+
 
