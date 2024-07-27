@@ -12,8 +12,8 @@ El gráfico de precios muestra la evolución diaria del valor de Bitcoin frente 
 
 El Supertrend es un indicador que utiliza una combinación de una media móvil ajustada y la volatilidad para definir niveles de soporte y resistencia dinámicos. En el gráfico:
 
-- **Áreas Verdes:** Indican que el precio se encuentra en una tendencia alcista según el indicador. Es decir, el precio está por encima de la línea de Supertrend, lo que sugiere mantener posiciones largas o de compra.
-- **Áreas Rojas:** Indican una tendencia bajista, con el precio por debajo de la línea de Supertrend, sugiriendo posiciones cortas o de venta.
+  - **Áreas Verdes:** Indican que el precio se encuentra en una tendencia alcista según el indicador. Es decir, el precio está por encima de la línea de Supertrend, lo que sugiere mantener posiciones largas o de compra.
+  - **Áreas Rojas:** Indican una tendencia bajista, con el precio por debajo de la línea de Supertrend, sugiriendo posiciones cortas o de venta.
 
 Las áreas de color no solo ayudan a identificar la tendencia actual, sino que también sirven como posibles niveles de stop-loss, proporcionando puntos de referencia para limitar pérdidas en caso de movimientos adversos.
 
@@ -64,5 +64,53 @@ Analizamos la captura, que proporciona un análisis más detallado de nuestra es
   - **Promedio por operación:** Las operaciones ganadoras tuvieron un promedio de 3,340.12 EUR, mientras que las perdedoras tuvieron un promedio de 613.98 EUR.
   - **Coeficiente del valor medio de ganancias/pérdidas:** Es de 5.44, lo que indica que las ganancias promedio son mayores que las pérdidas promedio.
   - **Operaciones y barras:** El promedio de barras en operaciones ganadoras es de 79, y en perdedoras es de 29, lo que sugiere que las operaciones ganadoras duraron más tiempo.
+
+____
+
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/conclusiones/conclusion5.png "Conc5")
+
+## Detalle de Operaciones de la Estrategia Supertrend
+
+Esta captura muestra una lista detallada de cada operación realizada por la estrategia Supertrend.
+
+- **Entradas y salidas:** Cada operación se clasifica como entrada larga (compra) o salida larga (venta).
+- **Fecha y hora:** La fecha y hora de cada operación están registradas.
+- **Precio y contratos:** Muestra el precio de BTC en el momento de la operación y la cantidad de contratos negociados.
+- **Ganancia/Pérdida:** La ganancia o pérdida en EUR y en porcentaje para cada operación.
+- **Acumulación de beneficios:** El beneficio acumulado se calcula después de cada operación.
+- **Máximo Drawdown:** Muestra el drawdown máximo, que es la mayor caída desde un pico histórico hasta un mínimo.
+
+A continuación, presentamos la tabla completa de las operaciones realizadas, tal como mencionamos anteriormente:
+
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/conclusiones/conclusion6.png "Conc6")
+
+____
+
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/conclusiones/conclusion7.png "Conc7")
+
+Esta captura muestra los parámetros específicos de la estrategia y la configuración utilizada en el análisis.
+
+### Rango de Fechas
+- **Rango de Trading:** Desde el 29 de enero de 2020 hasta el 23 de julio de 2024.
+- **Rango de Backtesting:** Desde el 3 de enero de 2020 hasta el 23 de julio de 2024.
+
+### Información del Símbolo
+- **Símbolo:** BINANCE
+- **Intervalo de Tiempo:** 1 día.
+- **Tipo de Gráfico:** Velas.
+- **Valor del Punto:** 1.
+- **Divisa:** EUR.
+- **Tamaño del Tick:** 0.01.
+
+### Propiedades de la Estrategia
+- **Capital Inicial:** 150,000 EUR.
+- **Tamaño de la Orden:** 5% del patrimonio neto.
+- **Efecto Pirámide:** 1 orden.
+- **Comisión:** 1 EUR por cada orden.
+- **Slippage:** 0 ticks.
+
+### Entradas de Estrategias
+- **ATR Length:** 10
+- **Factor:** 3
 
 
