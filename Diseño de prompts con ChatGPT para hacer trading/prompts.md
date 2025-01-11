@@ -4,9 +4,8 @@ A continuación, presentamos tres prompts: “Análisis del Sentimiento del Merc
 
 <div align="justify">
 
-
-
 ______________
+
 ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt1.jpg "Overview")
 
    
@@ -39,6 +38,7 @@ ______________
    
     *Proporciona un análisis estructurado con fuentes específicas que respalden tu evaluación. Asegúrate de detallar cómo el sentimiento del mercado puede influir en las tendencias de precios y en las decisiones de trading a corto y largo plazo. Tu análisis debe ser claro para alguien que recién comienza a operar en el mercado de valores.*
 
+______________
 
 ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt2.jpg "Overview")
 
@@ -68,6 +68,7 @@ ______________
    
     *Asegúrate de presentar gráficos o indicadores clave que respalden tu análisis técnico. Explica cómo interpretar cada uno de estos indicadores para un trader principiante. Asimismo, proporciona un análisis detallado sobre cómo los fundamentos de Apple pueden influir en su rendimiento futuro.*
 
+______________
 
 ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt3.jpg "Overview")
 
