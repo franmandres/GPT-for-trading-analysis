@@ -20,9 +20,13 @@ A continuación, presentamos tres prompts: “Análisis del Sentimiento del Merc
     ***Tarea***
    
     *1. Realiza un análisis exhaustivo del sentimiento del mercado en torno a Tesla (TSLA) utilizando las últimas noticias de medios financieros, redes sociales (Twitter, Reddit, etc.), y comentarios de analistas y expertos.*
-    *2. Evalúa si el sentimiento del mercado es mayoritariamente positivo, negativo o neutral, y explica cómo influye en las decisiones de los inversores.*
-    *3. Ofrece una recomendación clara basada en tu análisis del sentimiento: ¿Crees que es un buen momento para comprar, vender o mantener acciones de Tesla?*
-    *4. Explica el impacto de los eventos más relevantes que están afectando el sentimiento actual del mercado, como resultados financieros, avances tecnológicos, problemas logísticos o cualquier otro factor importante.*
+
+   *2. Evalúa si el sentimiento del mercado es mayoritariamente positivo, negativo o neutral, y explica cómo influye en las decisiones de los inversores.*
+
+   *3. Ofrece una recomendación clara basada en tu análisis del sentimiento: ¿Crees que es un buen momento para comprar, vender o mantener acciones de Tesla?*
+
+   *4. Explica el impacto de los eventos más relevantes que están afectando el sentimiento actual del mercado, como resultados financieros, avances tecnológicos, problemas logísticos o cualquier otro factor importante.*
+
    *5. Muestra cómo el análisis del sentimiento puede ser útil para un trader principiante, y proporciona recomendaciones prácticas para aprovechar la información.*
        
     ***Detalles específicos***
