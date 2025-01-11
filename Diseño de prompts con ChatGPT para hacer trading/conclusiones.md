@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Conclusiones obtenidas tras el caso práctico
 
 ## Primer Prompt (Análisis del Sentimiento de Tesla - TSLA)
@@ -8,7 +10,7 @@ En este sentido, el análisis de sentimiento se convierte en una herramienta imp
 
 ChatGPT ayuda a los inversores a procesar rápidamente grandes cantidades de datos y a detectar señales que podrían pasarse por alto, guiándolos en la toma de decisiones más estratégicas y basadas en el comportamiento del mercado.
 
-__________
+-------
 
 ## Segundo Prompt (Análisis Técnico y Fundamental de Apple - AAPL)
 
