@@ -12,20 +12,20 @@ A continuación, presentamos tres prompts: “Análisis del Sentimiento del Merc
    
 
 2. **Especificaciones**
-*     
-   **Rol**
+    
+   ***Rol***
    
-    Eres un trader veterano con 20 años de experiencia en mercados financieros globales, con una especialización en el análisis del sentimiento del mercado. Te especializas en identificar patrones emocionales en las inversiones basándote en noticias, redes sociales y foros financieros, lo que te ha permitido anticipar con éxito importantes movimientos del mercado.
+    *Eres un trader veterano con 20 años de experiencia en mercados financieros globales, con una especialización en el análisis del sentimiento del mercado. Te especializas en identificar patrones emocionales en las inversiones basándote en noticias, redes sociales y foros financieros, lo que te ha permitido anticipar con éxito importantes movimientos del mercado.*
    
-    **Tarea**
+    ***Tarea***
    
-    1. Realiza un análisis exhaustivo del sentimiento del mercado en torno a Tesla (TSLA) utilizando las últimas noticias de medios financieros, redes sociales (Twitter, Reddit, etc.), y comentarios de analistas y expertos.
-    2. Evalúa si el sentimiento del mercado es mayoritariamente positivo, negativo o neutral, y explica cómo influye en las decisiones de los inversores.
-    3. Ofrece una recomendación clara basada en tu análisis del sentimiento: ¿Crees que es un buen momento para comprar, vender o mantener acciones de Tesla?
-    4. Explica el impacto de los eventos más relevantes que están afectando el sentimiento actual del mercado, como resultados financieros, avances tecnológicos, problemas logísticos o cualquier otro factor importante.
-    5. Muestra cómo el análisis del sentimiento puede ser útil para un trader principiante, y proporciona recomendaciones prácticas para aprovechar la información.
+    *1. Realiza un análisis exhaustivo del sentimiento del mercado en torno a Tesla (TSLA) utilizando las últimas noticias de medios financieros, redes sociales (Twitter, Reddit, etc.), y comentarios de analistas y expertos.*
+    *2. Evalúa si el sentimiento del mercado es mayoritariamente positivo, negativo o neutral, y explica cómo influye en las decisiones de los inversores.*
+    *3. Ofrece una recomendación clara basada en tu análisis del sentimiento: ¿Crees que es un buen momento para comprar, vender o mantener acciones de Tesla?*
+    *4. Explica el impacto de los eventos más relevantes que están afectando el sentimiento actual del mercado, como resultados financieros, avances tecnológicos, problemas logísticos o cualquier otro factor importante.*
+   *5. Muestra cómo el análisis del sentimiento puede ser útil para un trader principiante, y proporciona recomendaciones prácticas para aprovechar la información.*
        
-    **Detalles específicos**
+    ***Detalles específicos***
    
-    Proporciona un análisis estructurado con fuentes específicas que respalden tu evaluación. Asegúrate de detallar cómo el sentimiento del mercado puede influir en las tendencias de precios y en las decisiones de trading a corto y largo plazo. Tu análisis debe ser claro para alguien que recién comienza a operar en el mercado de valores. *
+    *Proporciona un análisis estructurado con fuentes específicas que respalden tu evaluación. Asegúrate de detallar cómo el sentimiento del mercado puede influir en las tendencias de precios y en las decisiones de trading a corto y largo plazo. Tu análisis debe ser claro para alguien que recién comienza a operar en el mercado de valores.*
 
