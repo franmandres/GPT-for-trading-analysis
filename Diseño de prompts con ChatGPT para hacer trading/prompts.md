@@ -11,7 +11,7 @@ A continuación, presentamos tres prompts: “Análisis del Sentimiento del Merc
    El objetivo de este prompt es captar el sentimiento general del mercado sobre una acción o activo financiero determinado, extrayendo información cualitativa de fuentes como noticias, redes sociales y foros financieros. Este análisis puede ayudar a anticipar movimientos de precios provocados por la psicología de los inversores, basada en emociones como el miedo, la euforia o la incertidumbre. Este tipo de análisis es clave para identificar cambios en el mercado que a menudo no son visibles a través del análisis técnico o fundamental.
    
 
-2. **Especificaciones**
+2. **Prompt (aquello que facilitarás a ChatGPT para hacer el análisis)**
     
    ***Rol***
    
