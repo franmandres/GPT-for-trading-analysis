@@ -3,6 +3,10 @@
 A continuación, presentamos tres prompts: “Análisis del Sentimiento del Mercado”, “Análisis de Predicción y Tendencia”, y “Plan y Estrategia de Inversión”. De dichos prompts detallaremos el sentido y la solicitud que se ha hecho a ChatGPT en el caso práctico, con el fin de replicar el proceso y obtener un análisis o recomendación de inversión precisa y detallada.
 
 <div align="justify">
+
+
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt1.png "Overview")
+
    
 ## 1. Prompt para “Análisis del sentimiento del mercado”
    
@@ -34,9 +38,9 @@ A continuación, presentamos tres prompts: “Análisis del Sentimiento del Merc
     *Proporciona un análisis estructurado con fuentes específicas que respalden tu evaluación. Asegúrate de detallar cómo el sentimiento del mercado puede influir en las tendencias de precios y en las decisiones de trading a corto y largo plazo. Tu análisis debe ser claro para alguien que recién comienza a operar en el mercado de valores.*
 
 
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt2.png "Overview")
 
-
-## 2. Prompt para “Análisis del sentimiento del mercado”
+## 2. Prompt para “Análisis de predicción y tendencia”
    
 1. **Explicación**
    
@@ -63,9 +67,9 @@ A continuación, presentamos tres prompts: “Análisis del Sentimiento del Merc
     *Asegúrate de presentar gráficos o indicadores clave que respalden tu análisis técnico. Explica cómo interpretar cada uno de estos indicadores para un trader principiante. Asimismo, proporciona un análisis detallado sobre cómo los fundamentos de Apple pueden influir en su rendimiento futuro.*
 
 
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt3.png "Overview")
 
-
-## 3. Prompt para “Análisis del sentimiento del mercado”
+## 3. Prompt para “Plan y estrategia de inversión”
    
 1. **Explicación**
    
