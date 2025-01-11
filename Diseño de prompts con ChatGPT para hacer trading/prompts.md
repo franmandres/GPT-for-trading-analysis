@@ -5,7 +5,7 @@ A continuación, presentamos tres prompts: “Análisis del Sentimiento del Merc
 <div align="justify">
 
 
-![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt1.png "Overview")
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt1.jpg "Overview")
 
    
 ## 1. Prompt para “Análisis del sentimiento del mercado”
@@ -38,7 +38,7 @@ A continuación, presentamos tres prompts: “Análisis del Sentimiento del Merc
     *Proporciona un análisis estructurado con fuentes específicas que respalden tu evaluación. Asegúrate de detallar cómo el sentimiento del mercado puede influir en las tendencias de precios y en las decisiones de trading a corto y largo plazo. Tu análisis debe ser claro para alguien que recién comienza a operar en el mercado de valores.*
 
 
-![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt2.png "Overview")
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt2.jpg "Overview")
 
 ## 2. Prompt para “Análisis de predicción y tendencia”
    
