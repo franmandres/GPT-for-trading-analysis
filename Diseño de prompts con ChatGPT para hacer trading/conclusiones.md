@@ -10,7 +10,7 @@ En este sentido, el análisis de sentimiento se convierte en una herramienta imp
 
 ChatGPT ayuda a los inversores a procesar rápidamente grandes cantidades de datos y a detectar señales que podrían pasarse por alto, guiándolos en la toma de decisiones más estratégicas y basadas en el comportamiento del mercado.
 
-<br><br> 
+<br>
 
 ## Segundo Prompt (Análisis Técnico y Fundamental de Apple - AAPL)
 
@@ -20,9 +20,9 @@ Además, la combinación de este análisis técnico con el análisis fundamental
 
 Para los traders, esta función de ChatGPT facilita la toma de decisiones sobre cuándo comprar, vender o mantener acciones, al proveer análisis técnico detallado y recomendaciones fundamentadas en la realidad empresarial. Este enfoque dual permite evaluar tanto el estado financiero de la empresa como las tendencias de mercado, brindando una base sólida para tomar decisiones de inversión en el corto y mediano plazo.
 
+<br>
 
-
-## Conclusión para el Tercer Prompt (Plan de Inversión Personalizado)
+## Tercer Prompt (Plan de Inversión Personalizado)
 
 Este tercer prompt nos muestra cómo ChatGPT puede ayudar en la creación de planes de inversión personalizados, adaptados al perfil de riesgo y al horizonte de tiempo del inversor. En este caso, se dirige a un inversor moderado con un horizonte de 10 años, y ChatGPT proporciona una estrategia de asignación de activos diversificada, que combina acciones, bonos, REITs y metales preciosos para ofrecer un equilibrio entre crecimiento y protección del capital.
 
