@@ -5,6 +5,8 @@ A continuación, presentamos tres prompts: “Análisis del Sentimiento del Merc
 <div align="justify">
 
 
+
+______________
 ![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/prompt1.jpg "Overview")
 
    
