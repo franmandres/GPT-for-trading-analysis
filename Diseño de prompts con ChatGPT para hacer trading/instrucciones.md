@@ -1,6 +1,6 @@
 # Instruccions para hacer un Prompt
 
-![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/promptimagen1.jpg "Overview")
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/promptimagen1.png "Overview")
 
 ## ¿Qué es un prompt?
 
@@ -22,4 +22,4 @@ Para diseñar un prompt efectivo, es esencial ser claro, específico y contextua
 - **Mantén un tono coherente con el contexto**: Asegúrate de que el tono del prompt esté en línea con el estilo y la personalidad del chatbot o sistema de IA, lo que mejora la conexión con el usuario.
 - **Prueba y optimiza**: Evalúa cómo responden los usuarios a diferentes versiones del prompt y ajusta las formulaciones según sus reacciones y el feedback obtenido. Esta etapa de prueba es clave para mejorar la precisión y efectividad de los prompts en el tiempo.
 
-![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/promptinstruccion.jpg "Overview")
+![alt text](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/prompts/explicacionprompt.png "Overview")
