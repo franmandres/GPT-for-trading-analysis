@@ -12,19 +12,42 @@ El propósito principal de este trabajo es demostrar cómo los modelos de inteli
 
 ## Estructura del Repositorio
 
-- **caso practico/**: 
-  - **conclusiones y resultados.md**: Documento que resume las conclusiones y resultados obtenidos a partir de la aplicación de la estrategia Supertrend en el mercado de criptomonedas. Aquí se destacan las métricas clave como el beneficio neto, la relación Sharpe, y otros indicadores de rendimiento.
-  - **instrucciones.md**: Instrucciones detalladas sobre cómo ejecutar la estrategia y replicar el análisis realizado. Incluye información sobre la configuración del entorno de desarrollo, dependencias necesarias y pasos para reproducir los resultados.
+**LICENSE:**
 
+Archivo de licencia que define los términos de uso, modificación y distribución del contenido del proyecto. Contiene texto legal que protege los derechos del autor y establece las condiciones bajo las cuales otros pueden utilizar el código y los recursos asociados.
+<br>
+
+**README.md**
+
+Contiene la introducción general del proyecto, descripción de su propósito y objetivos, instrucciones para la instalación de dependencias necesarias, y ejemplos sobre cómo usar el código. Suele proporcionar enlaces a secciones clave y guías sobre cómo ejecutar scripts o replicar los análisis.
+<br>
+
+**Análisis de información de trading con ChatGPT/**
+
+- **conclusiones.md**: Resumen de los resultados del análisis realizado.
+- **documento.md**: 
+- **grafica.md**: 
+- **newsletter-criptoactivos-septiembre2024.pdf**: Boletín mensual que analiza el mercado de criptoactivos. Contiene análisis detallados, gráficos, y predicciones, al cual se hace referencia en el fichero "documento.md".
+- **noticia.md**: 
+<br>
+
+**Diseño de prompts con ChatGPT para hacer trading/**
+- **conclusiones.md**: 
+- **instrucciones.md**: Guía sobre la creación de prompts para obtener respuestas claras y útiles de ChatGPT. Describe estructuras recomendadas y formatos para solicitudes complejas.
+- **prompts.md**: Colección de ejemplos de prompts utilizados en el caso práctico planteado.
+<br>
+
+**Estrategia de indicadores con ChatGPT/**
+- **conclusiones y resultados.md**: Documento con métricas de rendimiento de estrategias de trading basadas en indicadores técnicos, incluyendo tasas de éxito y evaluaciones de riesgo.
+- **instrucciones.md**: Instrucciones detalladas para implementar las estrategias de trading automatizadas, con pasos para la instalación y ejecución.
 - **codigo/**:
-  - **"Supertrend BTC-EUR Strategy" code.txt**: Código fuente de la estrategia de trading basada en el indicador Supertrend, diseñada específicamente para el par BTC-EUR. Este archivo contiene la lógica de la estrategia, los parámetros utilizados y cómo se generan las señales de compra y venta.
-  - **"Supertrend indicator" code.txt**: Código del indicador Supertrend, utilizado para identificar tendencias y señales de trading en el mercado. El archivo describe los parámetros del indicador y cómo se calculan los puntos de entrada y salida.
+  - "Supertrend BTC-EUR Strategy” code.txt: Código para una estrategia de trading que emplea el indicador Supertrend en el par BTC-EUR.
+  - "Supertrend indicator” code.txt: Código que define la lógica del indicador Supertrend, con parámetros configurables para optimizar su uso en análisis técnico.
+<br>
 
-- **imagenes/**:
-  - **articulos/**: Conjunto de imágenes incluidas para complementar los artículos y la cabecera del repositorio, añadiendo un contexto visual enriquecedor.
-  - **capturas/**: Conjunto de imágenes utilizado para detallar y ejemplificar las instrucciones necesarias para replicar el caso práctico, haciendo que el proceso sea más sencillo de seguir.
-  - **conclusiones/**: Conjunto de imágenes que proporcionan evidencia de los resultados obtenidos, lo que permite una interpretación más clara y precisa de los datos.
-  
+- **imagenes/**: Conjunto de imágenes incluidas para complementar los archivos del propio repositorio.
+<br>
+
 - **material adicional/**:
   - **artículos.md**: Lista de artículos y referencias bibliográficas que han sido fundamentales para la elaboración del proyecto. Este archivo proporciona una visión de las fuentes de información y la literatura revisada durante la investigación.
   - **videos.md**: Enlaces a videos relevantes que complementan y expanden el contenido del TFG, ofreciendo demostraciones prácticas, entrevistas con expertos y otros recursos educativos.
