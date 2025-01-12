@@ -15,11 +15,13 @@ El propósito principal de este trabajo es demostrar cómo los modelos de inteli
 **LICENSE:**
 
 Archivo de licencia que define los términos de uso, modificación y distribución del contenido del proyecto. Contiene texto legal que protege los derechos del autor y establece las condiciones bajo las cuales otros pueden utilizar el código y los recursos asociados.
+
 <br>
 
 **README.md**
 
 Contiene la introducción general del proyecto, descripción de su propósito y objetivos, instrucciones para la instalación de dependencias necesarias, y ejemplos sobre cómo usar el código. Suele proporcionar enlaces a secciones clave y guías sobre cómo ejecutar scripts o replicar los análisis.
+
 <br>
 
 **Análisis de información de trading con ChatGPT/**
@@ -29,12 +31,14 @@ Contiene la introducción general del proyecto, descripción de su propósito y 
 - **grafica.md**: 
 - **newsletter-criptoactivos-septiembre2024.pdf**: Boletín mensual que analiza el mercado de criptoactivos. Contiene análisis detallados, gráficos, y predicciones, al cual se hace referencia en el fichero "documento.md".
 - **noticia.md**: 
+
 <br>
 
 **Diseño de prompts con ChatGPT para hacer trading/**
 - **conclusiones.md**: 
 - **instrucciones.md**: Guía sobre la creación de prompts para obtener respuestas claras y útiles de ChatGPT. Describe estructuras recomendadas y formatos para solicitudes complejas.
 - **prompts.md**: Colección de ejemplos de prompts utilizados en el caso práctico planteado.
+
 <br>
 
 **Estrategia de indicadores con ChatGPT/**
@@ -43,9 +47,11 @@ Contiene la introducción general del proyecto, descripción de su propósito y 
 - **codigo/**:
   - "Supertrend BTC-EUR Strategy” code.txt: Código para una estrategia de trading que emplea el indicador Supertrend en el par BTC-EUR.
   - "Supertrend indicator” code.txt: Código que define la lógica del indicador Supertrend, con parámetros configurables para optimizar su uso en análisis técnico.
+
 <br>
 
 **imagenes/**: Conjunto de imágenes incluidas para complementar los archivos del propio repositorio.
+
 <br>
 
 **material adicional/**:
