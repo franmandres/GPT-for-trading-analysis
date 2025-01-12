@@ -19,15 +19,14 @@ La imagen refleja el comportamiento del índice S&P 500 durante los últimos 12 
 *Recomendación específica:*
 
 -	*Para inversores a corto plazo:*
-        - *Buscar entradas en niveles de soporte alrededor de 5.700 puntos, con un stop loss ajustado en 5.600 para protegerse de caídas mayores.*
- 	      - *Fijar objetivos de salida alrededor de 6.000 puntos en caso de un repunte alcista.*
-        - *Considerar estrategias con opciones, como comprar calls para captar ganancias de subidas potenciales con riesgo limitado.*
+    - *Buscar entradas en niveles de soporte alrededor de 5.700 puntos, con un stop loss ajustado en 5.600 para protegerse de caídas mayores.*
+    - *Fijar objetivos de salida alrededor de 6.000 puntos en caso de un repunte alcista.*
+    - *Considerar estrategias con opciones, como comprar calls para captar ganancias de subidas potenciales con riesgo limitado.*
 
 - *Para inversores a largo plazo:*
-
-        - *Mantener posiciones existentes si ya están invertidos en fondos indexados o ETFs del S&P 500.*
-        - *Para nuevas inversiones, dividir el capital en dos o tres tramos para promediar precios, comenzando en niveles actuales y reservando capital para caídas potenciales hacia los 5.500 puntos.*
-        - *Usar instrumentos como el ETF SPY o el fondo de inversión Vanguard S&P 500 para diversificación eficiente.*
+    - *Mantener posiciones existentes si ya están invertidos en fondos indexados o ETFs del S&P 500.*
+    - *Para nuevas inversiones, dividir el capital en dos o tres tramos para promediar precios, comenzando en niveles actuales y reservando capital para caídas potenciales hacia los 5.500 puntos.*
+    - *Usar instrumentos como el ETF SPY o el fondo de inversión Vanguard S&P 500 para diversificación eficiente.*
 
 
 
