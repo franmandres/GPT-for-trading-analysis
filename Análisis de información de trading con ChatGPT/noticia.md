@@ -3,7 +3,8 @@
   
 # Análisis de una noticia con ChatGPT
 
-![alt text 1](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/noticia/noticiacompleta.jpg "Overview")
+[![alt text 1](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/noticia/noticiacompleta.jpg "Overview")](https://www.criptonoticias.com/mercados/bitcoin-rebota-nuevamente-soporte-clave-precio/)
+(Si pichas sobre la noticia te redirecciona a la pagina web de donde se extrajo)
 
 ## Resumen:
 La noticia con titular “Bitcoin rebota nuevamente en soporte clave” publicada en el periódico digital Criptonoticias el 10 de enero de 2025, aborda el reciente comportamiento de Bitcoin (BTC) en el mercado, destacando su capacidad para rebotar desde un soporte clave tras experimentar varias sesiones de corrección. Bitcoin había caído a la zona de 92.000 dólares, donde se encontró con una demanda fuerte que impulsó su precio nuevamente al alza, marcando un rebote significativo. Este nivel de precios ha actuado como soporte en múltiples ocasiones durante el último mes y medio, sirviendo como una base sólida para evitar caídas más pronunciadas.
