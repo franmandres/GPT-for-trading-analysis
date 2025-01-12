@@ -3,6 +3,7 @@
 # Conclusiones obtenidas tras el caso práctico
 
 El uso de ChatGPT para analizar documentos, gráficos y noticias financieras ofrece una herramienta poderosa para optimizar el proceso de toma de decisiones en los mercados. Su capacidad de interpretar datos, generar recomendaciones claras y considerar múltiples escenarios estratégicos proporciona ventajas significativas, desde la automatización del análisis hasta una gestión de riesgos mejorada.
+<br>
 
 ## 1. Ahorro de Tiempo y Automatización del Análisis Complejo
 
