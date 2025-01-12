@@ -9,9 +9,13 @@
 
 ## Resumen:
 El documento de septiembre de 2024, publicado por PwC, proporciona una visión integral sobre las tendencias regulatorias, avances tecnológicos y el estado actual del mercado de criptoactivos. Los temas clave incluyen:
+
 •	Regulación Global e Implementación de MiCA: Se enfatiza el esfuerzo del Financial Stability Board (FSB) y otras entidades para crear un marco regulatorio global para criptoactivos, stablecoins y pagos transfronterizos. En Europa, MiCA y DORA están siendo implementadas, pero España enfrenta retrasos legislativos que limitan su adaptación.
+
 •	Evolución del Euro Digital: El Banco Central Europeo (BCE) trabaja en un reglamento que prioriza la privacidad, la interoperabilidad y un modelo de “privacidad por diseño” para un euro digital listo para 2025.
+
 •	DeFi y Smart Contracts: Se detalla la categorización de contratos inteligentes en el ámbito de finanzas descentralizadas, destacando su potencial para préstamos, intercambios descentralizados y seguros.
+
 •	Tendencias de Mercado: El crecimiento de las stablecoins, la integración de criptomonedas por instituciones financieras como BBVA y Santander, y el auge de ETF referenciados a criptoactivos.
 
 ## Análisis de ChatGPT:
