@@ -3,7 +3,7 @@
   
 # Análisis de documentos con ChatGPT
 
-[![alt text 1](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/documento/portadadocumento.png "Overview")]([https://www.criptonoticias.com/mercados/bitcoin-rebota-nuevamente-soporte-clave-precio/]
+[![alt text 1](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/documento/portadadocumento.png "Overview")](https://www.pwc.es/es/auditoria/newsletters/newsletter-criptoactivos-septiembre2024.pdf)
 (Si pichas sobre la imagen te redirecciona a la pagina web de donde se extrajo)
 
 
