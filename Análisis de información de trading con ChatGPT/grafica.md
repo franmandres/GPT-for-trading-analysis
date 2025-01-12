@@ -1,7 +1,7 @@
 <div align="justify">
 
   
-# Análisis de documentos con ChatGPT
+# Análisis de gráficas con ChatGPT
 
 [![alt text 1](https://github.com/franmandres/GPT-for-trading-analysis/blob/main/imagenes/grafica/graficaSP500.png "Overview")](https://www.google.com/finance/quote/.INX:INDEXSPsa=X&ved=2ahUKEwjAqfr27OuKAxWJQ_EDHWbLGR0Q3ecFegQINRAf&window=1Y)
 (Si pichas sobre la imagen te redirecciona a la pagina web de donde se extrajo)
@@ -28,14 +28,9 @@ La imagen refleja el comportamiento del índice S&P 500 durante los últimos 12 
     - *Para nuevas inversiones, dividir el capital en dos o tres tramos para promediar precios, comenzando en niveles actuales y reservando capital para caídas potenciales hacia los 5.500 puntos.*
     - *Usar instrumentos como el ETF SPY o el fondo de inversión Vanguard S&P 500 para diversificación eficiente.*
 
-
-
-
-
 ***Predicción de futuro:***
 
--	*Avance del euro digital y CBDCs: Con un lanzamiento esperado en 2025, la integración del euro digital podría transformar los pagos minoristas y la banca digital en Europa.*
--	*Mayor adopción institucional: Alianzas como las de Société Générale con Bitpanda indican un futuro donde bancos tradicionales juegan un rol predominante en la custodia y transacciones cripto.*
--	*Mayor regulación global: Las normativas armonizadas mejorarán la confianza y reducirán riesgos, aunque podrían limitar la flexibilidad de plataformas emergentes.
+-	*Escenario alcista: Si las condiciones macroeconómicas se mantienen estables, el S&P 500 podría romper la barrera de los 6.000 puntos antes de mediados de 2025. Factores como una política monetaria más flexible o mejoras en la confianza empresarial podrían actuar como catalizadores.*
+-	*Escenario bajista: Una posible corrección podría llevar el índice a 5.500 o incluso 5.300 puntos, especialmente si las tasas de interés permanecen elevadas o se presentan nuevas incertidumbres económicas.*
 
 
