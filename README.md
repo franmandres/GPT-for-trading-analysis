@@ -45,10 +45,10 @@ Contiene la introducción general del proyecto, descripción de su propósito y 
   - "Supertrend indicator” code.txt: Código que define la lógica del indicador Supertrend, con parámetros configurables para optimizar su uso en análisis técnico.
 <br>
 
-- **imagenes/**: Conjunto de imágenes incluidas para complementar los archivos del propio repositorio.
+**imagenes/**: Conjunto de imágenes incluidas para complementar los archivos del propio repositorio.
 <br>
 
-- **material adicional/**:
+**material adicional/**:
   - **artículos.md**: Lista de artículos y referencias bibliográficas que han sido fundamentales para la elaboración del proyecto. Este archivo proporciona una visión de las fuentes de información y la literatura revisada durante la investigación.
   - **videos.md**: Enlaces a videos relevantes que complementan y expanden el contenido del TFG, ofreciendo demostraciones prácticas, entrevistas con expertos y otros recursos educativos.
 
