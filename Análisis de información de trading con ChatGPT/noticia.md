@@ -16,20 +16,20 @@ Finalmente, el artículo menciona que, aunque el soporte ha demostrado ser sóli
 
 ## Análisis de ChatGPT:
 
-***Conclusiones y recomendación de inversión***
+***Conclusiones y recomendación de inversión:***
 
 *Con base en el análisis técnico y el comportamiento reciente de los precios, las siguientes conclusiones se destacan:
 Conclusión principal: El soporte entre los 90.000 y 92.000 dólares es un nivel crucial para Bitcoin, y su capacidad para rebotar consistentemente desde esta zona refuerza su validez como área de acumulación donde los compradores tienen un mayor control.*
 
 ***Recomendación específica:***
 
-*-	Para inversores a corto plazo: Considerar la compra cerca del soporte de 92.000 dólares con un stop loss justo por debajo de ese nivel, para limitar pérdidas en caso de una ruptura bajista. La toma de ganancias puede fijarse cerca de resistencias recientes o máximos históricos (por encima de 108.000 dólares).*
-*- Para inversores a largo plazo: Si se confía en el potencial a futuro de Bitcoin, acumular posiciones en caídas hacia la zona de soporte es una estrategia razonable. La exposición debe equilibrarse según el perfil de riesgo de cada inversor.
+-	*Para inversores a corto plazo: Considerar la compra cerca del soporte de 92.000 dólares con un stop loss justo por debajo de ese nivel, para limitar pérdidas en caso de una ruptura bajista. La toma de ganancias puede fijarse cerca de resistencias recientes o máximos históricos (por encima de 108.000 dólares).*
+- *Para inversores a largo plazo: Si se confía en el potencial a futuro de Bitcoin, acumular posiciones en caídas hacia la zona de soporte es una estrategia razonable. La exposición debe equilibrarse según el perfil de riesgo de cada inversor.
 Utilizar una gestión del riesgo adecuada es esencial, ya que los mercados de criptomonedas son altamente volátiles. Invertir solo fondos que no se necesiten a corto plazo es una buena práctica.*
 
 ***Predicción de futuro:***
 
-*-	Escenario alcista: Si Bitcoin mantiene el soporte entre 90.000 y 92.000 dólares y la demanda sigue siendo fuerte, es probable que se dirija hacia niveles más altos, con potencial para alcanzar nuevos máximos históricos por encima de los 108.000 dólares.*
-*-	Escenario bajista: Si el soporte falla, podríamos ver una corrección más profunda, con objetivos en torno a los 73.000 dólares, un nivel de soporte anterior.*
-*-	Factores externos: Cambios regulatorios globales o decisiones económicas relevantes, como las políticas sobre criptomonedas en EE. UU., influirán en el precio. Mantenerse informado sobre noticias relevantes es crucial.*
+-	*Escenario alcista: Si Bitcoin mantiene el soporte entre 90.000 y 92.000 dólares y la demanda sigue siendo fuerte, es probable que se dirija hacia niveles más altos, con potencial para alcanzar nuevos máximos históricos por encima de los 108.000 dólares.*
+-	*Escenario bajista: Si el soporte falla, podríamos ver una corrección más profunda, con objetivos en torno a los 73.000 dólares, un nivel de soporte anterior.*
+-	*Factores externos: Cambios regulatorios globales o decisiones económicas relevantes, como las políticas sobre criptomonedas en EE. UU., influirán en el precio. Mantenerse informado sobre noticias relevantes es crucial.*
 
