@@ -26,16 +26,16 @@ Contiene la introducción general del proyecto, descripción de su propósito y 
 
 **Análisis de información de trading con ChatGPT/**
 
-- **conclusiones.md**: Resumen de los resultados del análisis realizado.
-- **documento.md**: 
-- **grafica.md**: 
+- **conclusiones.md**: Resumen de los resultados del caso práctico realizado.
+- **documento.md**: Parte del caso práctico donde facilitamos un documento pdf a ChatGPT con la intención que que nos lleve a cabo un analisis y previsión a futuro.
+- **grafica.md**: Parte del caso práctico donde facilitamos una grafica a ChatGPT con la intención que que nos lleve a cabo un analisis y previsión a futuro.
 - **newsletter-criptoactivos-septiembre2024.pdf**: Boletín mensual que analiza el mercado de criptoactivos. Contiene análisis detallados, gráficos, y predicciones, al cual se hace referencia en el fichero "documento.md".
-- **noticia.md**: 
+- **noticia.md**: Parte del caso práctico donde facilitamos una noticia a ChatGPT con la intención que que nos lleve a cabo un analisis y previsión a futuro.
 
 <br>
 
 **Diseño de prompts con ChatGPT para hacer trading/**
-- **conclusiones.md**: 
+- **conclusiones.md**: Resumen de los resultados del caso practico realizado.
 - **instrucciones.md**: Guía sobre la creación de prompts para obtener respuestas claras y útiles de ChatGPT. Describe estructuras recomendadas y formatos para solicitudes complejas.
 - **prompts.md**: Colección de ejemplos de prompts utilizados en el caso práctico planteado.
 
